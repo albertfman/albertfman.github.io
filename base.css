@@ -1,0 +1,13 @@
+body{
+    min-width:1226px;
+}
+.w{
+    width: 1226px;
+    margin: 0 auto;
+}
+.clearfix::before,
+.cleatfix::after{
+    content:"";
+    clear: both;
+    display: table;
+}
