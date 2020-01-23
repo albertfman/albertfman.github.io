@@ -1,0 +1,31 @@
+.wrapper{
+    background-color: black;
+    width: 100%;
+    height: 40px;
+    color: gray;
+    font-size: 20px;
+    line-height: 40px;
+}
+.kuang a{
+    color: gray;
+}
+.kuang a:link{
+    color: gray;
+}
+.kuang a:hover{
+    color: white;
+}
+.nav li{
+    display: block;
+    float:left;
+    padding-left: 5px;
+}
+.right li{
+    float:right;
+    padding-left: 5px;
+}
+.right-nav li{
+    float: right;
+    padding-left: 10px;
+
+}
